@@ -1,3 +1,7 @@
+> ℹ️ **Note:** This repository was copied from ISLP (Introduction to Statistical Learning with Python).
+
+![Bryan Johns ISLP certificate](./resources/ISLP.png)
+
 # ISLP_labs
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/intro-stat-learning/ISLP_Labs)
